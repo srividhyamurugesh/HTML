@@ -4,13 +4,13 @@ Welcome to the **HTML Project Tutorial** repository! This repo contains complete
 
 ##  Project Overview
 
-This tutorial guides you through building two practical HTML projects to solidify your web development fundamentals.
+This tutorial guides you through building practical HTML projects to solidify your web development fundamentals.
 
 ---
 
 ##  index.html: KS Academy Event Page
 
-This project introduces the core elements of HTML by building a themed "Event Page" for KS Academy.
+This file introduces the core elements of HTML by building a themed "Event Page" for KS Academy.
 
 ###  Key Concepts Covered:
 
@@ -24,7 +24,7 @@ This project introduces the core elements of HTML by building a themed "Event Pa
 
 ##  register.html: Registration Form Page
 
-This project builds a simple user registration form with essential form controls.
+This file builds a simple user registration form with essential form controls.
 
 ###  Features Demonstrated:
 
