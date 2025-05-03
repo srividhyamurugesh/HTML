@@ -45,7 +45,7 @@ The form is designed to collect user details and course preferences at KS Academ
 
 
 
-## 🔗 Connect
+##  Connect
 
 *  [GitHub – srividhyamurugesh](https://github.com/srividhyamurugesh)
 *  [LinkedIn – srividhyamurugesh12](https://www.linkedin.com/in/srividhyamurugesh12)
