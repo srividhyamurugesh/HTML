@@ -14,12 +14,12 @@ This project introduces the core elements of HTML by building a themed "Event Pa
 
 ###  Key Concepts Covered:
 
-Basic HTML Structure: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
-Text Elements: Headings (`<h1>`–`<h6>`), paragraphs (`<p>`)
-Media Embedding: YouTube video iframe
-Lists and Tables: Unordered lists, `<table>` for real-world scenarios
-Links: Anchor tags (`<a>`) for navigation
-Favicon: Custom icon in the browser tab
+* Basic HTML Structure: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
+* Text Elements: Headings (`<h1>`–`<h6>`), paragraphs (`<p>`)
+* Media Embedding: YouTube video iframe
+* Lists and Tables: Unordered lists, `<table>` for real-world scenarios
+* Links: Anchor tags (`<a>`) for navigation
+* Favicon: Custom icon in the browser tab
 
 
 ##  register.html: Registration Form Page
