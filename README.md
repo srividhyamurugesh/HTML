@@ -2,17 +2,17 @@
 
 Welcome to the **HTML Project Tutorial** repository! This repo contains complete starter and final code for building two beginner-friendly HTML projects.
 
-## 🔥 Project Overview
+##  Project Overview
 
 This tutorial guides you through building two practical HTML projects to solidify your web development fundamentals.
 
 ---
 
-## 🌐 index.html: KS Academy Event Page
+##  index.html: KS Academy Event Page
 
 This project introduces the core elements of HTML by building a themed "Event Page" for KS Academy.
 
-### 🔧 Key Concepts Covered:
+###  Key Concepts Covered:
 
 Basic HTML Structure: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
 Text Elements: Headings (`<h1>`–`<h6>`), paragraphs (`<p>`)
@@ -22,11 +22,11 @@ Links: Anchor tags (`<a>`) for navigation
 Favicon: Custom icon in the browser tab
 
 
-## 📝 register.html: Registration Form Page
+##  register.html: Registration Form Page
 
 This project builds a simple user registration form with essential form controls.
 
-### 🧰 Features Demonstrated:
+###  Features Demonstrated:
 
 Form structure using `<form>` and `<table>`
 Input fields: text, number, radio buttons, email
@@ -38,7 +38,7 @@ The form is designed to collect user details and course preferences at KS Academ
 
 
 
-## 📂 Files in This Repository
+##  Files in This Repository
 
 `index.html` – Main Event Page
 `register.html` – Course Registration Form
