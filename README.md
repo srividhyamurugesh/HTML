@@ -28,11 +28,11 @@ This project builds a simple user registration form with essential form controls
 
 ###  Features Demonstrated:
 
-Form structure using `<form>` and `<table>`
-Input fields: text, number, radio buttons, email
-Drop-down select menu
-File upload input
-Form buttons: Submit and Reset
+* Form structure using `<form>` and `<table>`
+* Input fields: text, number, radio buttons, email
+* Drop-down select menu
+* File upload input
+* Form buttons: Submit and Reset
 
 The form is designed to collect user details and course preferences at KS Academy.
 
@@ -40,14 +40,14 @@ The form is designed to collect user details and course preferences at KS Academ
 
 ##  Files in This Repository
 
-`index.html` – Main Event Page
-`register.html` – Course Registration Form
+* `index.html` – Main Event Page
+* `register.html` – Course Registration Form
 
 
 
 ## 🔗 Connect
 
-💻 [GitHub – srividhyamurugesh](https://github.com/srividhyamurugesh)
-🔗 [LinkedIn – srividhyamurugesh12](https://www.linkedin.com/in/srividhyamurugesh12)
+*  [GitHub – srividhyamurugesh](https://github.com/srividhyamurugesh)
+*  [LinkedIn – srividhyamurugesh12](https://www.linkedin.com/in/srividhyamurugesh12)
 
 
